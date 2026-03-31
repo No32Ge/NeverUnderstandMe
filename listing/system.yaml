@@ -1,5 +1,0 @@
-api_config: "../configs/api.json"          # API 配置文件路径（相对于此 system.yaml）
-dirs_config:                                # 存放 .sua 文件的目录列表
-  # - "../configs"                            # 例如这里会读取 configs 目录下所有 .sua 文件
-  - "../sua"                      # 可添加多个目录，不存在的目录会警告并跳过
-prompt_lib_dir: "../prompts"                 # prompt 模板库根目录（相对于此 system.yaml）
